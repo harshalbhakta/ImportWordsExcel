@@ -20,9 +20,6 @@ words_sheet.each_with_index do |row,index|
 
   	sentence = row[row_index] ? row[row_index].strip : ""
 
-  	# Skip if minimum 10 sentences are not available.
-  	break if (row_index < 7 && sentence == "")
-
   	# Skip empty sentences after 5th sentence.
   	next if (sentence == "")
 

@@ -175,6 +175,19 @@ INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Non-stat
 INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The company''s directors are accused of abrogating their responsibilities.','14','2013-08-14 00:00:00','2013-08-14 00:00:00');
 INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The U.S. Congress can abrogate old treaties that are unfair to Native Americans.','14','2013-08-14 00:00:00','2013-08-14 00:00:00');
 
+INSERT INTO words (id,word,pronunciation,ishidden,created_at,updated_at) VALUES ('15','absolute','abso-LOOT','false','2013-08-14 00:00:00','2013-08-14 00:00:00');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Evolution can only work on the material at hand with almost absolute blindness.','15','2013-08-14 00:00:00','2013-08-14 00:00:00');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The petitioner may apply for the decree to be made absolute.','15','2013-08-14 00:00:00','2013-08-14 00:00:00');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Absolute beginners '' guide to watching non league football.','15','2013-08-14 00:00:00','2013-08-14 00:00:00');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('A pathname, whether abstract or in string form, may be either absolute or relative.','15','2013-08-14 00:00:00','2013-08-14 00:00:00');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Absolute necessity of a total police state; no freedom of dissent.','15','2013-08-14 00:00:00','2013-08-14 00:00:00');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('We live in an age when many say there is no absolute '' truth '' ( see '' what is truth?','15','2013-08-14 00:00:00','2013-08-14 00:00:00');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Emotions consist of subtle shade, and are never absolute.','15','2013-08-14 00:00:00','2013-08-14 00:00:00');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('His line is that relative poverty doesn''t matter, only absolute poverty does.','15','2013-08-14 00:00:00','2013-08-14 00:00:00');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('A dark sky is an absolute necessity in order to see the faint cometary tail .','15','2013-08-14 00:00:00','2013-08-14 00:00:00');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('We are always interested in relative results, not absolute.','15','2013-08-14 00:00:00','2013-08-14 00:00:00');
+
 INSERT INTO words (id,word,pronunciation,ishidden,created_at,updated_at) VALUES ('16','abstinence','abste-NENS','false','2013-08-14 00:00:00','2013-08-14 00:00:00');
 
 INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Spiritual ascetics preach a complete abstinence from the world.','16','2013-08-14 00:00:00','2013-08-14 00:00:00');
