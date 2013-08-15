@@ -34,11 +34,11 @@ words_sheet.each_with_index do |row,index|
 
   # Generate INSERT query for word
   content += %Q{INSERT INTO words (id,word,pronunciation,ishidden,created_at,updated_at) VALUES ('#{index}','#{word.gsub("'","''")}','#{pronunciation.gsub("'","''")}','false','2013-08-14 00:00:00','2013-08-14 00:00:00');} + "\n\n"
-
+  sequence_no = index + 1
+  
   # Gemerate INSERT query for sentences
   sentences.each do |sentence|
   	content += %Q{INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('#{sentence.gsub("'","''")}','#{index}','2013-08-14 00:00:00','2013-08-14 00:00:00');} + "\n"
-  	sequence_no = index + 1
   end
 
   processed_words += 1
