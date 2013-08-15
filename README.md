@@ -36,7 +36,7 @@ Parsing Rules
 Queries to be generated
 -------------------------
 
-*Word query*
+Word query
 
 ```sql
 
@@ -44,3 +44,25 @@ INSERT INTO words (id,word,pronunciation,ishidden,created_at,updated_at) VALUES
                   ('1','a la carte','ah-luh-KAHRT','false','2013-08-14 00:00:00','2013-08-14 00:00:00');
 
 ```
+
+Sentence query
+
+```sql
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES 
+                      ('Sentence 1 Text','1','2013-08-14 00:00:00','2013-08-14 00:00:00');
+                      
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES 
+                      ('Sentence 2 Text','1','2013-08-14 00:00:00','2013-08-14 00:00:00');
+
+```
+
+Sequence query
+
+```sql
+
+# words_id_seq is last word count + 1
+SELECT setval('words_id_seq',20, true);
+
+```
+
