@@ -8,6 +8,10 @@ Excel Details
 
 The [excel sheet](https://github.com/harshalbhakta/ImportWordsExcel/blob/master/wtw_words_demo.xls?raw=true) has below mentioned columns.
 
+| Word  | Procunciation | Sentence1  | Sentence2 | ... | Sentence14 |
+| ----- | :-----------: | :--------: | :-------: | :-: | ---------: |
+| abase | /əˈbās/       | Sample text| Sample text| ... | Last Sentence|
+
 * A:1  - Word
 * A:2  - Pronunciation
 * A:3  - Sentence1
