@@ -43,7 +43,7 @@ words_sheet.each_with_index do |row,index|
   end
 
   # Generate INSERT query for word
-  content += %Q{INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('#{index}','#{word.gsub("'","''")}','#{pronunciation.gsub("'","''")}','#{approved}','#{approved}','#{today_string}','#{today_string}');} + "\n\n"
+  content += %Q{INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('#{index}','#{word.gsub("'","''")}','#{pronunciation.gsub("'","''")}','#{approved}','true','#{today_string}','#{today_string}');} + "\n\n"
   
   # Gemerate INSERT query for sentences
   sentences.each do |sentence|
@@ -56,6 +56,8 @@ words_sheet.each_with_index do |row,index|
 end
 
 puts "Insert queries generated for #{processed_words} words."
+
+processed_words += 1
 
 content += ("\n\n\n" + "SELECT setval('words_id_seq',#{processed_words}, true);")
 
