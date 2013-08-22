@@ -1,0 +1,251 @@
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('1','a la carte','ah-luh-KAHRT','true','true','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Utilize these resources to complete the application and/or make enhancements to   the school''s menu or a la carte  program.','1','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The menu has both combination plates and a la carte  options.','1','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The restaurant offers a number of a la carte  items, combination plates and   vegetarian dishes.','1','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Diners may choose to order from an a la carte  menu or select from a fixed price   tasting menu.','1','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Some restaurants found in these high-end areas serve small plates, or tapas, a series of a la carte  items which diners may share.','1','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Consumers have been interested in a la carte  selections for a while.','1','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Some spa vacation rates include only the cost of the room and meals, with all activities and spa treatments sold a la carte.','1','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('In the last few years, some carriers have adopted a la carte  pricing for optional services.','1','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Diners may order a la carte  or from the buffet, and the restaurant is open for lunch and dinner seven days a week.','1','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Soups, salads, sides and starches are available to go along with a la carte  steaks and entrees.','1','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('2','abase','uh-BEYS','true','true','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('He abased his head.','2','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The ordering period will include abase  year with four one-year options.','2','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Humility, nay an inclination to abase  herself externally, seemed natural to her.','2','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The people saw and felt the abase , and became restive and clamorous under it.','2','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Please abase  yourself and mend your ways.','2','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('And you must not be abased to the other.','2','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('You may change your name, then go and abase  yourself.','2','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The model shall be mounted on abase  that permits the model to be firmly and independently secured on a desk.','2','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('After subdividing abase  mesh, its vertices are projected along normal vectors towards closest sample points.','2','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('3','abash','uh-BASH','true','true','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('He was a little abashed by her regal composure.','3','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('4','abide','uh-BAAYD','true','true','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Yet, being a law abiding citizen you get robbed £ 60 just for going slightly over the speed limit.','4','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Rats are the one rodent which most people can not abide.','4','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Foreign investors have to abide  by the labor-laws of the land.','4','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('No more free rides for those who do not abide  by our value system.','4','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('And the world is passing away along with its desires , but whoever does the will of God abides forever.','4','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('By posting to the DVD Reviewer forums you are agreeing to abide by these rules in their entirety.','4','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('And he who does not speak of god may abide in him if he is abiding in love.','4','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The heavens will tremble, sun and moon and stars will be darkened; who can abide the day of Yahweh?','4','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('If in doubt, players should always abide by locally-played or house rules.','4','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The Executive Yuan will certainly abide by this ruling.','4','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('He was a murderer from the beginning, and abode not in the truth, because there is no truth in him.','4','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('And that be that hates his brother, abides in death, 1 John, iii.','4','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('5','abjure','ub-JOOR','false','false','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('If the client refuses, the lawyer may then abjure  the case.','5','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('But let us hope those yet to be written will abjure  facile ideology.','5','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('They cannot afford to abjure  militancy.','5','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Academic freedom to pursue the truth entails the obligation to abjure  untruth.','5','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('They promised to abjure  their sins and recommitted them.','5','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('But the same deafness afflicts the same people when they are exhorted to abjure  other sorts of unhealthy behaviour.','5','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The Union is wrong to abjure  its own liberal identity.','5','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('"For nearly 21 years after his resignation as Prime Minister in 1963, he abjured all titles, preferring to remain just plain ''Mr.''" (Time).','5','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('"He retracted his earlier statements about his religion"; "She abjured her beliefs".','5','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('But even whilst they deny and abjure, they are yet compelled to serve, that power which is seated on the throne of their own soul.','5','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('If the client refuses, the lawyer may then abjure the case.','5','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The courts must abjure unnecessary mental gymnastics which give the terms of the policy a forced or distorted construction.','5','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('6','ablution','uh-BLOO-shun','false','false','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('If the water does not flow on the skin, there is no ablution  and so no baptism.','6','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('It is suggested based on this translation that performing ablution  is not required.','6','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The two forms of performing ablution will be exposed based on the human comprehension of the verse.','6','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Once, he let a cat drink from the water he was going to use for his ablutions before prayers.','6','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('One building on the site was an ablution block for the RAF during the Second World War.','6','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The accommodation was pleasant; we had four beds and our own ablution facilities.','6','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('It depicts the Hindu Raja of Jammu performing ritual ablutions prior to worship.','6','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The final two rooms were the ablution room and the laboratory and shifting room.','6','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('He moved towards the bathroom to begin his morning ablutions.','6','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Without Law we can make no ablution from our sins ; but without Spirit there is no water.','6','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('7','abnegation','abni-GA-shen','false','false','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The duty of the hour calls for self- abnegation  and united efforts.','7','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('We expect a kind of self- abnegation  entirely missing from the paternal   experience.','7','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('He read a ballerina''s memoir and learned about the physical transformation and   abnegation  that dancers go through.','7','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('With this sub lime act of self- abnegation  he bids fair to close his political   career with glory.','7','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The denial and rejection of a doctrine or belief; "abnegation of the Holy Trinity."','7','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Anything less feels to me to be hypocritical, a selfish abnegation of reality and responsibility.','7','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('As well as being a small masterpiece of inarticulacy and self- abnegation.','7','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Abnegation of responsibility is bringing with it the anarchy, chaos and violence in society.','7','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('It''s hard to abnegate habit of smoking once started.','7','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('I will abnegate from social drinking, as to force myself to socialize with the aid of alcohol.','7','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('8','abode','uh-BOHD','true','true','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Neither of the two giant planets is a likely abode  for life as we know it.','8','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Being nomads, the Bedouin struggle to provide proof of abode.','8','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Many neighborhoods lack local markets because no one wants traffic in or around   their abode.','8','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Just got a message from a neighbor that there''s an uninvited guest back in my   country abode.','8','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The lodge was once a prince''s private hunting abode.','8','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Here is a primitive description of the sun god sitting on his throne in his heavenly abode.','8','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('This is his certain, permanent abode, not the passing dream of life.','8','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Tourist concentrations created pollution even in the " abode of the gods".','8','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('One final gate bars the deceased from entering the abode of the blessed dead.','8','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('This is his certain , permanent abode , not the passing dream of life.','8','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('We also have an abode of evil which is just a room painted red.','8','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('9','abolish','uh-BOL-ish','true','true','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('"Slavery was abolished in the mid-19th century in America and in Russia."','9','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('It was formally abolished in august 1806, francis ii having already assumed the title of '' emperor of austria".','9','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('In march 1986 the glc was finally abolished bringing to an end almost 100 years of london government.','9','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('This, he said, would lead to an increase in correspondence and virtually abolish all attempts to evade paying postage.','9','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('To abolish child poverty may not be enough.','9','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('But in 1975 the monarchy was all but abolished when the semi-secret and independent kingdom was absorbed by india and became its 22nd state.','9','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('This was the first state to officially abolish slavery in 1777.','9','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('This test has been abolished by the new law; see below.','9','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The lead management requirements are abolished with immediate effect.','9','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Abolishing the monarchy is simply the first step in creating a new system of government.','9','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('A wise and able ruler , she abolished serfdom and judicial torture.','9','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('10','abominate','e-BOM-e-nat','true','true','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('King Minos held the Minotaur in abomination, so he built a labyrinth in which to imprison the monster.','10','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('David abominates vegetable, he foes not even want them on his dinner plate.','10','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Abomination in the sight of god?','10','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('We abominate jokes that make fun of people who have mental or physical disabilities.','10','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Moses scolded the idol worshippers in the tribe because he abominated the custom.','10','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Vishal is a pure vegetarian, he abominates non-vegetarian food.','10','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('All the students abominate the school, cause of its boring teachers.','10','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('He abominates cruelty of all kinds.','10','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Abominateessed a noble mind and loved truthfulness, indeed his father ever abominating " guile " taught him " sincerity".','10','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('They abominate moving, as it is quite tiresome.','10','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('11','aboriginal','abe-RIJE-nel','false','false','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Pertaining to members of the indigenous people of Australia; "an Aboriginal rite."','11','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Elderly chiefs were selected from each aboriginal tribe to take orders from the governor and carry out his policies.','11','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('People inhabiting a region from the beginning are; "native Americans"; "the aboriginal peoples of Australia".','11','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The names might be from the aboriginal inhabitants, such as Dakota.','11','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Aboriginal tribes now live mainly in the central mountains.','11','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('It is their aim to ensure that aboriginal tourism in Canada benefits the aborigines.','11','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The springy, arching line of George''s drawing reminds me of the Dreamtime images of aboriginal paintings.','11','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The students were encouraged in particular to think about aboriginal culture.','11','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The aboriginal population was removed in the 1830s by the missionary zealot G.A. Robinson.','11','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Aboriginal inhabitants the islands may have had left no trace of their existence.','11','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Aboriginal tourism in canada benefits the aborigines.','11','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('12','abortive','e-BOR-tiv','false','false','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('An abortive attempt to conclude the negotiations.','12','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The second attempt proved even more abortive than the first.','12','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Several attempts had been made to rescue her, which the vigilance of her keeper had rendered abortive.','12','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Abortive rebellion was over and essex a prisoner.','12','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Abortive capital expenditure where under the current system there is often no relief available.','12','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Abortive transactions, estate agents lose because they only get paid when a sale is successful.','12','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('An abortive attempt was made to clear some of the loose boulders with a hoe.','12','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('After further abortive negotiations with the English Parliament , Charles returned to his talks with the Scots in December 1647.','12','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Far from making money from abortive transactions , estate agents lose because they only get paid when a sale is successful.','12','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('By the evening Essex ''s abortive rebellion was over and Essex a prisoner.','12','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('13','abridge','uh-BRIJ','false','false','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('He wrote because he liked to write; he did not abridge, because he cared not to abridge.','13','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The chalet books, slightly abridged, are being reissued in the armada series.','13','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Abridge provided that " congress shall make no law abridging the freedom of speech or of the press.','13','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Abridged version of the mail sent to him.','13','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Ten minutes was allowed for each speaker, so even this briefing was much abridged.','13','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The modern library edition is, of course, a greatly abridged version of the six-volume original.','13','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The very period of sleep, so necessary for the young, is too often abridged.','13','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('This information is taken in heavily abridged form from the book " freemasonry: a celebration of the craft.','13','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('I asked him if it was the abridged edition.','13','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('This is a slightly abridged version of our catalogue.','13','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('This feature is abridged from an essay by Jan Stuart.','13','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('14','abrogate','','false','false','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('But an abrogating verse ought to come after the abrogated one.','14','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('He will not abrogate the work of christ on the cross.','14','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('These verses are all abrogated by other verses which call for war.','14','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('He was not abrogating any of the Mosaic laws to allow gentiles easier access to the kingdom.','14','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The ceremonies of the law, which God himself ordained, are now abrogated, and out of date.','14','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('It would have been very easy to add a short statement about the origin of those abrogated verses.','14','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Whether or not the President alone can abrogate a treaty is an open question.','14','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('One is that Jesus abrogated the laws of Moses.','14','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Non-state actors should also be held accountable for actions or omissions that abrogate these rights.','14','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The company''s directors are accused of abrogating their responsibilities.','14','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The U.S. Congress can abrogate old treaties that are unfair to Native Americans.','14','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('15','absolute','abso-LOOT','false','false','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Evolution can only work on the material at hand with almost absolute blindness.','15','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The petitioner may apply for the decree to be made absolute.','15','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Absolute beginners '' guide to watching non league football.','15','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('A pathname, whether abstract or in string form, may be either absolute or relative.','15','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Absolute necessity of a total police state; no freedom of dissent.','15','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('We live in an age when many say there is no absolute '' truth '' ( see '' what is truth?','15','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Emotions consist of subtle shade, and are never absolute.','15','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('His line is that relative poverty doesn''t matter, only absolute poverty does.','15','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('A dark sky is an absolute necessity in order to see the faint cometary tail .','15','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('We are always interested in relative results, not absolute.','15','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('16','abstinence','abste-NENS','false','false','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Spiritual ascetics preach a complete abstinence from the world.','16','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Six weeks of smoking abstinence was confirmed by expired carbon monoxide.','16','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Abstinence from alcohol are also to be found in the Bible.','16','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Astinence from meat are still mandated by the church for all catholics on some days of lent.','16','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Case closure, where service user has achieved abstinence or left the program.','16','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Research should be carried out on the effects of nrt during temporary abstinence on compensatory smoking.','16','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('We aim to provide an individual treatment approach promoting abstinence enabling clients to maintain change.','16','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Non smoking at four weeks has been shown to be a good predictor of long-term abstinence.','16','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Use the gum whenever there is an urge to smoke to maintain complete abstinence from smoking.','16','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Women who exercise have been shown to achieve higher levels of continuous abstinence from smoking than non-exercisers.','16','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('A Spider suddenly rushes from her hole:she has been rendered warlike, doubtless, by prolonged abstinence.','16','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('17','abstract','ab-STRAKT','true','true','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Other submitted abstracts will be presented in the poster session.','17','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The final list of accepted abstracts will be emailed when available.','17','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('You can download the abstracts of the papers as a 208 kb pdf file.','17','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Some conferences invite abstracts for seminars and workshops as well as for posters and concurrent sessions.','17','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Each issue contains 20 abstracts chosen by elizabeth rowan, the lisa editor.','17','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Please send an abstract of a paper or presentation you would like to give.','17','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('A summary or abstract of the article is available.','17','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The GDN would like to thank the Journal of Geography for allowing us to reproduce abstracts from the journal.','17','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Current content freely available from this site includes interactive case studies, documents and reports, and journal article abstracts.','17','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('This page outlines the process that is involved with electronic ABSTRACT submission.','17','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('18','abut','uh-BUT','true','true','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The principal entrance is on the north side, abutting the highway.','18','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('It also abuts onto the Crystal Palace Conservation area.','18','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The school consists of a long narrow building lying nearly east and west, the east end abutting on the street.','18','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The rear garden is laid predominantly to lawn with a paved terrace abutting the rear of the bungalow.','18','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('On areas where grass abuts a hard surface, any overgrowing turf is cut back once every two years.','18','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('It was a substantial four-storey building of stone, with one end abutting on the river.','18','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('The above property abuts on the public road leading from Watton to holme Hale west.','18','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Many of the employment areas in the Borough directly abut residential areas.','18','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Only having my dog here and worrying abut what would happen to her if I did something has stopped me.','18','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('West wall of north aisle abuts north tower wall.','18','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO words (id,word,pronunciation,approved,published,created_at,updated_at) VALUES ('19','abyss','e-BIS','false','false','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('But I was pushed into the abyss of darkness by inconsiderate words and actions.','19','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('By contrast, an unlikely spark can also cross the abyss unexpectedly.','19','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Every moment they per- ceived some friend floating around them for a while -- then sinking into the dread abyss to rise no more.','19','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Peering over the parapet of the bridge, one saw a deep murky abyss, from which sounds of swiftly flowing water rose.','19','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('First he seemed plunged into a bottomless abyss of grief.','19','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('And how is earth''s ocean abyss similar to a desert island?','19','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('He stared down at the dark abyss between gaia''s legs.','19','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('Yet even from the highest peak he''ll fall into the deepest abyss from where there''s no escape.','19','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('It took in excess of two full loads of readymixed concrete to fill the abyss.','19','2013-08-22 21:20:18','2013-08-22 21:20:18');
+INSERT INTO sentences (sentence,word_id,created_at,updated_at) VALUES ('We are faced with the yawning psychological abyss of patricide.','19','2013-08-22 21:20:18','2013-08-22 21:20:18');
+
+
+
+
+SELECT setval('words_id_seq',19, true);
